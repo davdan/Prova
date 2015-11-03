@@ -6,5 +6,5 @@ for i in range(x):
 a = range(10)
 print a
 print ' '.join([str(x) for x in a])
-if x>5:
+if x>6:
 	print "è maggiore"
